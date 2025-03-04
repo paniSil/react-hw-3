@@ -1,4 +1,5 @@
 # React homework project 3
+Project page on Netlify: [React 3](https://react-hw-3-panisil.netlify.app/)
 
 Simple react project for testing controlled and uncontrolled form components and data fetching
 
