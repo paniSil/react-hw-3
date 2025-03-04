@@ -16,6 +16,7 @@ const ServerDataFetch = () => {
       .catch((error) => {
         setError("Loading failed");
         setIsLoading(false);
+        console.log(error);
       });
   }, []);
 
